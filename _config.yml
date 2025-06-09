@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Changle Qu"
-description              : "Changle Qu's Homepage"
+description              : # "Changle Qu's Homepage"
 repository               : "quchangle1/quchangle1.github.io"
 google_scholar_stats_use_cdn : true
 
