@@ -70,16 +70,25 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02* ICLR 2025 Oral presentation (1.8%).
+- *2024.07* SIGIR 2024 Best Short Paper Nominees. 
+- *2022.10* Merit Student Scholarship in Huazhong University of Science and Technology.
+- *2022.05* Finalist Winners(Top 2%) at American Undergraduate Mathematical Contest in Modeling.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2019.09 - 2023.06*, Bachelor in Cyberspace Security, School of Cyberspace Security, Huazhong University of Science and Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📚 Academic Services
+- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, Information Fusion
+- **Secondary Reviewer**: ACL 2024, EMNLP 2024, ICLR 2025, ICML 2025, ACL 2025, NeurIPS 2025 
 
+# 👩🏻‍🏫 Teaching
+- *Teaching Assistant,* Freshman Seminar on Information Retrieval, Renmin University of China, Spring 2025
+- *Teaching Assistant,* Introduction to Big Data Analytics, Renmin University of China, Fall 2024
+
+  
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [Baidu Inc.](https://searchscience.baidu.com/), Search Strategy Department,focusing on tool learning with llms.
+- [Kuaishou Technology](https://www.kuaishou.com/), focusing on live streaming recommendation.
+
