@@ -54,7 +54,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **Changle Qu**, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
 
-  **FCS** \| [Paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=49798)
+  **FCS** \| [Paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=49798) \| <a href="https://github.com/quchangle1/LLM-Tool-Survey"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/quchangle1/LLM-Tool-Survey?style=flat&logo=github&logoColor=black&labelColor=ffffff&color=ffffff&label=Stars"></a> 
 
 - **Towards completeness-oriented tool retrieval for large language models**
 
