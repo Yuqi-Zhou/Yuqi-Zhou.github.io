@@ -89,6 +89,6 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   
 # 💻 Internships
-- [Baidu Inc.](https://searchscience.baidu.com/), Search Strategy Department,focusing on tool learning with llms.
-- [Kuaishou Technology](https://www.kuaishou.com/), focusing on live streaming recommendation.
+- [Baidu Inc.](https://searchscience.baidu.com/), Search Strategy Department, focusing on tool learning with llms.
+- [Kuaishou Technology](https://www.kuaishou.com/), Live Streaming Recommendation Department, focusing on live streaming recommendation.
 
