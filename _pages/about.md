@@ -77,7 +77,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 # 📖 Educations
 - *2023.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
-- *2019.09 - 2023.06*, Bachelor in Cyberspace Security, School of Cyberspace Security, Huazhong University of Science and Technology.
+- *2019.09 - 2023.06*, Bachelor in Cyberspace Security. School of Cyberspace Security, Huazhong University of Science and Technology.
 
 # 📚 Academic Services
 - **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, Information Fusion
