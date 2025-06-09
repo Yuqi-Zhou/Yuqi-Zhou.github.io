@@ -73,7 +73,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2025.02* ICLR 2025 Oral presentation (1.8%).
 - *2024.07* SIGIR 2024 Best Short Paper Nominees. 
 - *2022.10* Merit Student Scholarship in Huazhong University of Science and Technology.
-- *2022.05* Finalist Winners(Top 2%) at American Undergraduate Mathematical Contest in Modeling.
+- *2022.05* Finalist Winners (Top 2%) at American Undergraduate Mathematical Contest in Modeling.
 
 # 📖 Educations
 - *2023.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
