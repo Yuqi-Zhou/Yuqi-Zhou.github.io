@@ -42,7 +42,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **Changle Qu**, Liqin Zhao, Yannan Niu, Xiao Zhang, Jun Xu
 
-  **SIGIR 2025** \| [Paper]() 
+  **SIGIR 2025** \| [Paper](https://dl.acm.org/doi/10.1145/3726302.3729914) 
 
 - **From exploration to mastery: enabling LLMs to master tools via self-driven interactions**
 
@@ -54,7 +54,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **Changle Qu**, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
 
-  **FCS** \| [Paper](https://arxiv.org/pdf/2405.17935)
+  **FCS** \| [Paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=49798)
 
 - **Towards completeness-oriented tool retrieval for large language models**
 
