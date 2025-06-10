@@ -65,8 +65,8 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
   **CIKM 2023** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614856) 
 
 # 🎖 Honors and Awards
-- *2021.10* Second Prize in CCIR Cup National Information Retrieval Challenge: *Knowledge Measurement of Pre-trained Models*  
-- *2022.06* Third Prize in Language and Intelligence Technology Competition: *Knowledge-based Dialogue*  
+- *2022.06* Third Prize in Language and Intelligence Technology Competition: *Knowledge-based Dialogue* 
+- *2021.10* Second Prize in CCIR Cup National Information Retrieval Challenge: *Knowledge Measurement of Pre-trained Models*   
 
 # 📖 Educations
 - *2023.09 - Present*, PhD Candidate. Gaoling School of Artificial Intelligence, Renmin University of China.
