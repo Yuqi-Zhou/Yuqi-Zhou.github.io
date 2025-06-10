@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Changle Qu"
-description              : # "Changle Qu's Homepage"
-repository               : "quchangle1/quchangle1.github.io"
+title                    : "Yuqi Zhou"
+description              : # "Yuqi Zhou's Homepage"
+repository               : "Yuqi-Zhou/Yuqi-Zhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changle Qu"
-  avatar           : "images/iclr.jpg"
-  bio              : "Ph.D. Candidate at Gaoling School of Artificial Intelligence, Renmin University of China, focusing on Tool Learning, Recommender System and  Information Retrieval."
+  name             : "Yuqi Zhou"
+  avatar           : "images/zhouyuqi.jpeg"
+  bio              : "Ph.D. Candidate at Gaoling School of Artificial Intelligence, Renmin University of China, focusing on Information Retrieval, Recommender System, and GUI Agent."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tE4A_j0AAAAJ"
-  email            : "changlequ@ruc.edu.cn"
-  researchgate     : # "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : https://scholar.google.com/citations?user=AfpVKLAAAAAJ"
+  email            : "yuqizhou@ruc.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "quchangle1"
+  github           : "Yuqi-Zhou"
   google_plus      :
   keybase          :
   instagram        :
