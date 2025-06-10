@@ -19,7 +19,6 @@ redirect_from:
 
 I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Harbin Institute of Technology, Shenzhen ([HITSZ](https://www.hitsz.edu.cn/)) in June 2023. My research interests include Information Retrieval, Recommender System, and GUI Agent.
 
-
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 My first-author paper ‘‘Length-Induced Embedding Collapse in PLM-based Models’’ is accepted by **([ACL 2025](https://2025.aclweb.org/))**!
 - *2025.04*: &nbsp;🎉🎉 My first-author paper ‘‘Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop’’ is accepted by **([SIGIR 2025](https://sigir2025.dei.unipd.it/))**!
@@ -65,7 +64,6 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **CIKM 2023** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614856) 
 
-
 # 🎖 Honors and Awards
 - *2021.10* Second Prize in CCIR Cup National Information Retrieval Challenge: *Knowledge Measurement of Pre-trained Models*  
 - *2022.06* Third Prize in Language and Intelligence Technology Competition: *Knowledge-based Dialogue*  
@@ -75,8 +73,8 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2019.09 - 2023.06*, Bachelor in Computer Science and Technology. School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen.
 
 # 📚 Academic Services
-- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, Information Fusion
-- **Secondary Reviewer**:  
+- **Program Committee / Reviewer**: KDD 2024, KDD 2025, ACL ARR 2025 February, ACL ARR 2025 May, NeurIPS 2025
+- **Secondary Reviewer**: NeurIPS 2024, WWW 2025, ICLR 2025, SIGIR 2025
   
 # 💻 Internships
 - [Huawei Inc.](http://dev3.noahlab.com.hk/Recruitment-L.html), Noah’s Ark Lab, Search and Recommendation Department, focusing on information retrieval with LLM and GUI agent.
