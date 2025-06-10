@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuqi Zhou"
-  avatar           : "images/zhouyuqi.jpeg"
+  avatar           : "zhouyuqi.jpeg"
   bio              : "Ph.D. Candidate at Gaoling School of Artificial Intelligence, Renmin University of China, focusing on Information Retrieval, Recommender System, and GUI Agent."
   location         : "Beijing, China"
   employer         :
