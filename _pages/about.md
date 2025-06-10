@@ -25,7 +25,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2025.04*: &nbsp;🎉🎉 Our paper ‘‘Mitigating Source Bias with LLM Alignment’’ is accepted by **([SIGIR 2025](https://sigir2025.dei.unipd.it/))**!
 - *2024.05*: &nbsp;🎉🎉 Our paper ‘‘Cocktail: A comprehensive information retrieval benchmark with llm-generated documents integration’’ is accepted by **([ACL 2024 Findings](https://2024.aclweb.org/))**!
 - *2024.05*: &nbsp;🎉🎉 Our paper ‘‘Neural retrievers are biased towards llm-generated content’’ is accepted by **([KDD 2024](https://kdd2024.kdd.org/))**!
-- *2023.08*: &nbsp;🎉🎉 Our paper ‘‘ReCODE: Modeling Repeat Consumption with Neural ODE’’ is accepted by **([SIGIR 2024](https://uobevents.eventsair.com/cikm2023/))**!
+- *2023.08*: &nbsp;🎉🎉 Our paper ‘‘Dually enhanced delayed feedback modeling for streaming conversion rate prediction’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
 # 📝 Publications 
 - **Length-Induced Embedding Collapse in PLM-based Models**
