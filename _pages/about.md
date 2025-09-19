@@ -20,6 +20,7 @@ redirect_from:
 I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Harbin Institute of Technology, Shenzhen ([HITSZ](https://www.hitsz.edu.cn/)) in June 2023. My research interests include Information Retrieval, Recommender System, and GUI Agent.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 My first-author paper ‘‘GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents’’ is accepted by **([NeurIPS 2025](https://neurips.cc/))**!
 - *2025.05*: &nbsp;🎉🎉 My first-author paper ‘‘Length-Induced Embedding Collapse in PLM-based Models’’ is accepted by **([ACL 2025](https://2025.aclweb.org/))**!
 - *2025.04*: &nbsp;🎉🎉 My first-author paper ‘‘Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop’’ is accepted by **([SIGIR 2025](https://sigir2025.dei.unipd.it/))**!
 - *2025.04*: &nbsp;🎉🎉 Our paper ‘‘Mitigating Source Bias with LLM Alignment’’ is accepted by **([SIGIR 2025](https://sigir2025.dei.unipd.it/))**!
@@ -28,6 +29,13 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2023.08*: &nbsp;🎉🎉 Our paper ‘‘Dually enhanced delayed feedback modeling for streaming conversion rate prediction’’ is accepted by **([CIKM 2023](https://uobevents.eventsair.com/cikm2023/))**!
 
 # 📝 Publications 
+
+- **GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**
+
+  **Yuqi Zhou**, Sunhao Dai, Shuai Wang, Kaiwen Zhou, Qinglin Jia, Jun Xu
+
+  **NeurIPS 2025** \| [Paper](https://arxiv.org/pdf/2505.15810?)
+
 - **Length-Induced Embedding Collapse in PLM-based Models**
 
   **Yuqi Zhou**, Sunhao Dai, Zhanshuo Cao, Xiao Zhang, Jun Xu
