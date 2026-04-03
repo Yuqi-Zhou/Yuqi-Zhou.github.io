@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor's degree from Harbin Institute of Technology, Shenzhen ([HITSZ](https://www.hitsz.edu.cn/)) in June 2023. My research interests include Information Retrieval, Recommender System, GUI Agent, and Agentic Search.
+I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor's degree from Harbin Institute of Technology, Shenzhen ([HITSZ](https://www.hitsz.edu.cn/)) in June 2023. My research interests include Information Retrieval, GUI Agent, and Agentic Search.
 
 # News
 - *2026.04*: &nbsp; My first-author paper "Learning to Retrieve from Agent Trajectories" is accepted by **SIGIR 2026**!
@@ -37,7 +37,7 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
   **SIGIR 2026**
 
-  Links: [Paper](https://yuqi-zhou.github.io/LRAT-homepage/paper-assets/LRAT.pdf) | [Code](https://github.com/Yuqi-Zhou/LRAT) | [Project Page](https://yuqi-zhou.github.io/LRAT-homepage/)
+  Links: [Paper](https://yuqi-zhou.github.io/LRAT-homepage/paper-assets/LRAT.pdf), [Code](https://github.com/Yuqi-Zhou/LRAT), [Project Page](https://yuqi-zhou.github.io/LRAT-homepage/)
 
 - **UI-Venus-1.5 Technical Report**
 
