@@ -35,67 +35,89 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
   **Yuqi Zhou**, Sunhao Dai, Changle Qu, Liang Pang, Jun Xu, Ji-Rong Wen
 
-  **SIGIR 2026** | [Paper](https://yuqi-zhou.github.io/LRAT-homepage/paper-assets/LRAT.pdf) | [Code](https://github.com/Yuqi-Zhou/LRAT) | [Project Page](https://yuqi-zhou.github.io/LRAT-homepage/)
+  **SIGIR 2026**
+
+  Links: [Paper](https://yuqi-zhou.github.io/LRAT-homepage/paper-assets/LRAT.pdf) | [Code](https://github.com/Yuqi-Zhou/LRAT) | [Project Page](https://yuqi-zhou.github.io/LRAT-homepage/)
 
 - **UI-Venus-1.5 Technical Report**
 
   Venus Team, Changlong Gao, Zhangxuan Gu, Yulin Liu, Xinyu Qiu, Shuheng Shen, Yue Wen, Tianyu Xia, Zhenyu Xu, Zhengwen Zeng, Beitong Zhou, Xingran Zhou, Weizhi Chen, Sunhao Dai, Jingya Dou, Yichen Gong, Yuan Guo, Zhenlin Guo, Feng Li, Qian Li, Jinzhen Lin, **Yuqi Zhou**, Linchao Zhu, Liang Chen, Zhenyu Guo, Changhua Meng, Weiqiang Wang
 
-  **Technical Report 2026** | [Paper](https://arxiv.org/abs/2602.09082)
+  **Technical Report 2026**
+
+  Links: [Paper](https://arxiv.org/abs/2602.09082)
 
 - **GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents**
 
   **Yuqi Zhou**, Sunhao Dai, Shuai Wang, Kaiwen Zhou, Qinglin Jia, Jun Xu
 
-  **NeurIPS 2025** | [Paper](https://arxiv.org/pdf/2505.15810?)
+  **NeurIPS 2025**
+
+  Links: [Paper](https://arxiv.org/pdf/2505.15810?)
 
 - **Length-Induced Embedding Collapse in PLM-based Models**
 
   **Yuqi Zhou**, Sunhao Dai, Zhanshuo Cao, Xiao Zhang, Jun Xu
 
-  **ACL 2025** | [Paper](https://aclanthology.org/2025.acl-long.1396/)
+  **ACL 2025**
+
+  Links: [Paper](https://aclanthology.org/2025.acl-long.1396/)
 
 - **Mitigating Source Bias with LLM Alignment**
 
   Sunhao Dai, **Yuqi Zhou**, Liang Pang, Zhuoyang Li, Zhaocheng Du, Gang Wang, Jun Xu
 
-  **SIGIR 2025** | [Paper](https://doi.org/10.1145/3726302.3730038)
+  **SIGIR 2025**
+
+  Links: [Paper](https://doi.org/10.1145/3726302.3730038)
 
 - **Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop**
 
   **Yuqi Zhou**, Sunhao Dai, Liang Pang, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen
 
-  **SIGIR 2025** | [Paper](https://doi.org/10.1145/3726302.3729972)
+  **SIGIR 2025**
+
+  Links: [Paper](https://doi.org/10.1145/3726302.3729972)
 
 - **CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**
 
   **Yuqi Zhou**, Shuai Wang, Sunhao Dai, Qinglin Jia, Zhaocheng Du, Zhenhua Dong, Jun Xu
 
-  **arXiv 2025** | [Paper](https://arxiv.org/abs/2503.03743)
+  **arXiv 2025**
+
+  Links: [Paper](https://arxiv.org/abs/2503.03743)
 
 - **GUI Agents with Foundation Models: A Comprehensive Survey**
 
   Shuai Wang, Weiwen Liu, Jingxuan Chen, **Yuqi Zhou**, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu, Xinlong Hao, Kun Shao, Bin Wang, Chuhan Wu, Yasheng Wang, Ruiming Tang, Jianye Hao
 
-  **arXiv 2024** | [Paper](https://arxiv.org/abs/2411.04890)
+  **arXiv 2024**
+
+  Links: [Paper](https://arxiv.org/abs/2411.04890)
 
 - **Cocktail: A comprehensive information retrieval benchmark with llm-generated documents integration**
 
   Sunhao Dai, Weihao Liu, **Yuqi Zhou**, Liang Pang, Rongju Ruan, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen
 
-  **ACL 2024 Findings** | [Paper](https://arxiv.org/abs/2405.16546)
+  **ACL 2024 Findings**
+
+  Links: [Paper](https://arxiv.org/abs/2405.16546)
 
 - **Neural retrievers are biased towards llm-generated content**
 
   Sunhao Dai, **Yuqi Zhou**, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, Xiao Zhang, Gang Wang, Jun Xu
 
-  **KDD 2024** | [Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671882)
+  **KDD 2024**
+
+  Links: [Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671882)
 
 - **Dually enhanced delayed feedback modeling for streaming conversion rate prediction**
 
   Sunhao Dai, **Yuqi Zhou**, Jun Xu, Ji-Rong Wen
 
-  **CIKM 2023** | [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614856)
+  **CIKM 2023**
+
+  Links: [Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614856)
 
 # Honors and Awards
 - *2022.06* Third Prize in Language and Intelligence Technology Competition: *Knowledge-based Dialogue*
