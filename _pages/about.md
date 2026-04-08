@@ -37,7 +37,7 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
   **SIGIR 2026**
 
-  Links: [Paper](https://yuqi-zhou.github.io/LRAT-homepage/paper-assets/LRAT.pdf), [Code](https://github.com/Yuqi-Zhou/LRAT), [Project Page](https://yuqi-zhou.github.io/LRAT-homepage/)
+  Links: [Paper](https://arxiv.org/abs/2604.04949), [Code](https://github.com/Yuqi-Zhou/LRAT), [Project Page](https://yuqi-zhou.github.io/LRAT-homepage/)
 
 - **UI-Venus-1.5 Technical Report**
 
